@@ -1,0 +1,5 @@
+com\testjava\springboot\rest\example\product\Product.class
+com\testjava\springboot\rest\example\product\ProductResource.class
+com\testjava\springboot\rest\example\DemoApplication.class
+com\testjava\springboot\rest\example\product\ProductRepository.class
+com\testjava\springboot\rest\example\product\ProductNotFoundException.class
